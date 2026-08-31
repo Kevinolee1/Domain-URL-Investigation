@@ -108,7 +108,7 @@ else:
     Press ctrl+s to save
 
 Go to PowerShell to test the domain by typing python main.py and press enter
-Then type example.com and press enter
+Then type example.com and press enter for enter IOC to investigate:
 You should get
  
 SOC IOC Investigation Tool
@@ -123,5 +123,5 @@ Suspicious: 0
 Harmless:   ...
 Undetected: ...
 
-Next type in type python main.py and press enter 
-then type https://example.com and press enter for the the URL test
+Next type in type python main.py and press enter for the URL test.
+then type https://example.com and press enter for Enter IOC to investigate:
