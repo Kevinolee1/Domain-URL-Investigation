@@ -125,7 +125,7 @@ Malicious:  0
 Suspicious: 0
 Harmless:   ...
 Undetected: ...
-
+![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/7f551502f3d6623bb3f7bf9dd6bbfb8169afd3b7/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111828.png)
 Next type in type python main.py and press enter for the URL test.
 then type https://example.com and press enter for Enter IOC to investigate:
 You should get something like
