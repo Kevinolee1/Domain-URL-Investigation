@@ -112,7 +112,7 @@ else:
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/297328c75392a983368ceb089a012a57d406b960/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111725.png)
 Go to PowerShell to test the domain by typing python main.py and press enter
 Then type example.com and press enter for enter IOC to investigate:
-You should get
+You should get something like
  
 SOC IOC Investigation Tool
 --------------------------
@@ -128,7 +128,7 @@ Undetected: ...
 
 Next type in type python main.py and press enter for the URL test.
 then type https://example.com and press enter for Enter IOC to investigate:
-You should get
+You should get something like
 
 
 SOC IOC Investigation Tool
