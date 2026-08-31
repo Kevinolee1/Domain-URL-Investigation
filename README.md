@@ -125,3 +125,17 @@ Undetected: ...
 
 Next type in type python main.py and press enter for the URL test.
 then type https://example.com and press enter for Enter IOC to investigate:
+You should get
+
+
+SOC IOC Investigation Tool
+--------------------------
+IOC:  https://example.com
+Type: URL
+
+VirusTotal Results
+------------------
+Malicious:  0
+Suspicious: 0
+Harmless:   65
+Undetected: 27
