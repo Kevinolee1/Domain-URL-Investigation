@@ -8,10 +8,15 @@ Built a Python tool that automatically queries VirusTotal to investigate domains
 Go to Vs Code and replace the current main.py with
 
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/36bd8d656959eecb62262eafe8bb2a51d416bb97/Screenshot%202026-08-31%20185743.png)
+
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/2cfea15f71128c45f31f141b06dacfabdf585164/Screenshot%202026-08-31%20185720.png)
+
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/297328c75392a983368ceb089a012a57d406b960/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111725.png)
+
 Go to PowerShell to test the domain by typing python main.py and press enter
+
 Then type example.com and press enter for enter IOC to investigate:
+
 You should get something like
  
 SOC IOC Investigation Tool
