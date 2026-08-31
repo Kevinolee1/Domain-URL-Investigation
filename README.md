@@ -3,6 +3,7 @@ Built a Python tool that automatically queries VirusTotal to investigate domains
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/facd61f87fed0f3c20338600363570446c242bf8/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111145.png)
 ![Inage alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/b5edf1f9bc7331b670fa869d8fdcf96edca25964/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111217.png)
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/269374276c68767aedd4ef7d1dc84edcbfb5b8d5/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111244.png)
+![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/d749457c3fa45d28031a0d069c53be43500e5948/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111313.png)
 Go to Vs Code and replace the current main.py with
 import os
 import re
