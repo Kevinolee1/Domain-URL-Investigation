@@ -109,7 +109,7 @@ else:
     print()
     print("This lab currently investigates Domains and URLs only.")
     Press ctrl+s to save
-
+![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/297328c75392a983368ceb089a012a57d406b960/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111725.png)
 Go to PowerShell to test the domain by typing python main.py and press enter
 Then type example.com and press enter for enter IOC to investigate:
 You should get
