@@ -13,9 +13,9 @@ Open VS Code and replace the contents of main.py with the following code.
 
 ![Image alt](https://github.com/Kevinolee1/Domain-URL-Investigation/blob/297328c75392a983368ceb089a012a57d406b960/Domain%20%26%20URL%20Investigation/Screenshot%202026-08-31%20111725.png)
 
-To test URL analysis, run python main.py again in PowerShell
+To test domain analysis, run python main.py in PowerShell
 
-Then type example.com and press enter for enter IOC to investigate:
+When prompted to enter an IOC, type example.com and press Enter.
 
 You should get something like
  
@@ -52,3 +52,5 @@ Suspicious: 0
 Harmless:   65
 
 Undetected: 27
+
+**Skills Demonstrated:** Python • VirusTotal API • REST APIs • JSON Parsing • Threat Intelligence • IOC Analysis • Domain Analysis • URL Analysis • Input Validation • SOC Automation
